@@ -1,6 +1,6 @@
 # normal function
 def greetings():
-    print('Welcome to python basics!')
+    print('Welcome to python functions!')
 
 
 # function with arguments and default parameters
