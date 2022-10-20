@@ -22,6 +22,8 @@ class Point:
 
     def draw(self):
         print(f'Point ({self.x}, {self.y})')
+        print('python Classes')
+
 
 
 point1 = Point(22, 56)
