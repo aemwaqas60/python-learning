@@ -2,7 +2,6 @@
 def greetings():
     print('Welcome to py functions!')
 
-
 # function with arguments and default parameters
 def multiply(number1, number2=1):
     return number1 * number2
