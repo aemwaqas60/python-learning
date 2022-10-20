@@ -4,3 +4,5 @@ total = 0
 for item in items:
     total += item
 print(f"Total is : {total}")
+print(f"For Loops")
+
