@@ -34,4 +34,6 @@ print(f'point1 == point2 : {point1 == point2}')
 print(f'point1 > point2 : {point1 > point2}')
 print(f'point1 + point2 : {point1 + point2}')
 print(f'point1 > point2 : {point1 > point2}')
+print(f'Restrict to push in main branch')
+
 
