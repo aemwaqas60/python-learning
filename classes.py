@@ -33,3 +33,5 @@ print(f'Point1 : {point1}')
 print(f'point1 == point2 : {point1 == point2}')
 print(f'point1 > point2 : {point1 > point2}')
 print(f'point1 + point2 : {point1 + point2}')
+print(f'point1 > point2 : {point1 > point2}')
+
